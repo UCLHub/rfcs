@@ -40,3 +40,8 @@ If the FCP process successfully terminates and the RFC is **accepted**, then it
 will be assigned an **RFC document number** (RFC-DN). This is a unique identifer
 that discussions in the relevant UCL Hub repositories and members of the
 community can use to refer to the accepted RFC.
+
+## For Maintainers
+
+RFC PRs should be squashed and merged so we maintain a clean and linear
+history.
